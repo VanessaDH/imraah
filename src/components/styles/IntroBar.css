@@ -1,0 +1,11 @@
+.intro-bar{
+    font-family:cursive;
+    font-size: 18px;
+    width: 100%;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: white;
+    justify-content: center;
+}
