@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imraah/static/css/main.aac29d77.css",
+    "main.js": "/imraah/static/js/main.93bd0a51.js",
+    "static/media/welcomevideo.mp4": "/imraah/static/media/welcomevideo.ec7f6e477c838b92621a.mp4",
+    "static/media/bot_icon.png": "/imraah/static/media/bot_icon.1c92c1d67e59ef2afab6.png",
+    "static/media/menu_icon.png": "/imraah/static/media/menu_icon.0f938bafbfed3185a207.png",
+    "index.html": "/imraah/index.html",
+    "main.aac29d77.css.map": "/imraah/static/css/main.aac29d77.css.map",
+    "main.93bd0a51.js.map": "/imraah/static/js/main.93bd0a51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac29d77.css",
+    "static/js/main.93bd0a51.js"
+  ]
+}
